@@ -16,18 +16,18 @@ I know several technologies, frameworks, databases and programming languages at 
 
 I want to do real things and offer them to the world. I am always delighted with the functionality that my team does. It's something magical! And I want to be able to do that too. My main goal is to become a good specialist, work remotely and move to Europe closer to the sea. This has become especially relevant lately. My ideal life is develop, do real projects and get charged by very smart people. 
 
----
+***
 
 ## Skills and Proficiency:
-* JavaScript
-* HTML&CSS
-* Git
-* Figma
-* PostgreSQL
-* Python
-* Django Framework
-* Waterfall, Scrum, Kanban
-* Jira, Confluence
+- JavaScript
+- HTML&CSS
+- Git
+- Figma
+- PostgreSQL
+- Python
+- Django Framework
+- Waterfall, Scrum, Kanban
+- Jira, Confluence
 
 ***
 
@@ -36,14 +36,16 @@ I want to do real things and offer them to the world. I am always delighted with
 function multiply(a, b){
   return a * b
 }
+
 ```
 
----
+***
 
 ## Work experience
-#### I have been working as a project manager in an IT company for 2 years.
 
----
+I have been working as a project manager in an IT company for 2 years.
+
+***
 
 ## Education:
 * __University__: Novosibirsk State University, Bachelor of Economics
@@ -53,9 +55,9 @@ function multiply(a, b){
   - Django Framework
   - PostgreSQL
   - Project Manager
-
+  
 ***
 
 ## Languages:
-* English - Pre-Intermediate
-* Russian - Native
+- English - Pre-Intermediate
+- Russian - Native
