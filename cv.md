@@ -1,7 +1,7 @@
 # Ryasnyanskaya Kseniya
 
 ## Junior Frontend Developer
----
+
 ## Contact information:
 - Phone: +7 968-749-17-35
 - E-mail: ryasnyanskaya_kseniya@inbox.ru
@@ -32,7 +32,7 @@ function multiply(a, b){
 ```
 ---
 ## Work experience
-### I have been working as a project manager in an IT company for 2 years.
+#### I have been working as a project manager in an IT company for 2 years.
 ---
 ## Education:
 * __University__: Novosibirsk State University, Bachelor of Economics
