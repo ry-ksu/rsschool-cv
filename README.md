@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ry-ksu.github.io/rsschool-cv/cv
